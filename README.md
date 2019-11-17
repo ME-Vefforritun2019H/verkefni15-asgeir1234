@@ -1,16 +1,16 @@
 # vfor1Verk15
 Javascript föll, aðferðir og hlutir (objects) 
 
-1.  Vinnið  HTML skjalinu
-1.1 Setjið inn title og tengingu við CSS skjalið
-1.2 Setjið strenginn "TravelWorthy" í heading 1
-1.3 Setjið upp div með id "info"
-1.3.1 Setjið strenginn "latest hotel offer" í heading 2
-1.3.2 Setjið upp div tagg með id "hotelName"
-1.3.3 Setjið upp div tagg með id "roomRate"
-1.3.4 Setjið upp div tagg með id "specialRate"
-1.3.5 Setjið strenginn "room rate when you book 2 or more nights" í p tagg
-1.3.6 Setjði upp div tagg með id "offerEnds"
+#1.  Vinnið  HTML skjalinu
+#1.1 Setjið inn title og tengingu við CSS skjalið
+#1.2 Setjið strenginn "TravelWorthy" í heading 1
+#1.3 Setjið upp div með id "info"
+#1.3.1 Setjið strenginn "latest hotel offer" í heading 2
+#1.3.2 Setjið upp div tagg með id "hotelName"
+#1.3.3 Setjið upp div tagg með id "roomRate"
+#1.3.4 Setjið upp div tagg með id "specialRate"
+#1.3.5 Setjið strenginn "room rate when you book 2 or more nights" í p tagg
+#1.3.6 Setjði upp div tagg með id "offerEnds"
 1.4 Setjið upp tengingu við javascript skjalið.
 
 2.  Vinnið í CSS skjalinu
